@@ -1,0 +1,13 @@
+{
+  "name": "projectname",
+  "version": "1.0.0",
+  "description": "add the description",
+  "main": "index.html",
+  "author": "Hemanshu Patel",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
